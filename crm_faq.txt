@@ -1,0 +1,9 @@
+What is CRM?
+CRM is Customer Relationship Management software.
+
+How to create a lead?
+Go to dashboard → Create Lead → fill details.
+
+Pricing?
+Basic: ₹999/month
+Pro: ₹1999/month
